@@ -1,6 +1,6 @@
 # ch09
 
-A new Flutter project.
+오준석의 플러터 생존코디 CH09.
 
 ## Getting Started
 
